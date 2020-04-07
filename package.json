@@ -1,0 +1,24 @@
+{
+  "name": "skrollr",
+  "version": "1.0.0",
+  "description": "Exercise for J220 class",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/J220-Intro-Coding/skrollr"
+  },
+  "keywords": [],
+  "author": "Jeremy Rue",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^2.2.0",
+    "grunt": "^1.1.0",
+    "grunt-contrib-connect": "^2.1.0",
+    "grunt-contrib-watch": "^1.1.0"
+  },
+  "dependencies": {}
+}
